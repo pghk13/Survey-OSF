@@ -42,7 +42,7 @@ Your contributions will help keep this survey comprehensive and accurate.
 If you find this survey useful in your research or work, please consider citing it:
 
 ```bibtex
-@article{YourSurvey2025,
+@article{Kun2025Survey,
   title={A Survey of Fuzzing Open-Source Operating Systems},
   author={Kun Hu, Qicai Chen, Zilong Lu, Wenzhuo Zhang, Bihuan Chen, You Lu, Haowen Jiang, Bingkun Sun, Xin Peng, Wenyun Zhao},
   journal={arXiv preprint arXiv:2502.13163},
