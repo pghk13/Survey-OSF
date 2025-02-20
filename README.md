@@ -12,7 +12,7 @@
 - [A Survey of Fuzzing Open Source Operating Systems](#a-survey-of-fuzzing-open-source-operating-systems)
   - [📋 Table of Contents](#-table-of-contents)
   - [🚀 About the Survey](#-about-the-survey)
-  - [📜 Missing Papers](#-missing-papers)
+  - [📜 Missing Papers \& Suggestions](#-missing-papers--suggestions)
   - [🔗 Citation](#-citation)
 
 ---
@@ -20,15 +20,15 @@
 ## 🚀 About the Survey
 This survey provides:
 - A **comprehensive taxonomy** to Operating System Fuzzing.  
-- **Unique technique details** in OS Fuzzing, and **fuzzing strategy** at different OS layers (e.g., Kernel, File System, Driver, Hypervisor)
+- **Unique technique details** in OS Fuzzing, and **fuzzing strategies** at different OS layers (e.g., Kernel, File System, Driver, Hypervisor)
 - **Discussion of open challenges** and future directions in Open-Source Operating System Fuzzing.
 
 We review general fuzzing compaign in Open-Source OS, as well as catagorize fuzzing details and challenges at different OS layers. We aim to keep this survey up to date with the latest developments in Open-Source OS Fuzzing.
 
 ---
 
-## 📜 Missing Papers
-We may not have captured every relevant paper. If you know of any work we should include:
+## 📜 Missing Papers & Suggestions
+We may not have included all the relevant papers or there may be errors in the relevant descriptions. If you know of any work we should have included or suggestions for corrections:
 - Please contact me at 📩 [**huk23@m.fudan.edu.cn**].
 - Or create an issue or pull request in this repository with details of the paper.
 
