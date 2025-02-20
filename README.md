@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-> A systematic review of current fuzzing research on Open-Source Operating Systems, covering Kernel Fuzzing, File System Fuzzing, Driver Fuzzing, and Hypervisor Fuzzing.
+> ** A systematic review of current fuzzing research on Open-Source Operating Systems, covering Kernel Fuzzing, File System Fuzzing, Driver Fuzzing, and Hypervisor Fuzzing.
 
 ---
 
